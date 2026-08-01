@@ -17,10 +17,7 @@ Here are some ideas to get you started:
 
 Engineering undergrad focused on low-level systems, software performance, and embedded development. I enjoy turning complex logic into efficient, reliable solutions.
 
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/Gokul-S-2509/count.svg" alt="Visitor's Count" />
-</div>
+![Visitor Count](https://komarev.com/ghpvc/?username=Gokul-S-2509&color=blue&style=flat)
 
 ### 💻 Technical Stack
 
