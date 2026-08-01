@@ -4,7 +4,7 @@
 
 Engineering undergrad focused on low-level systems, software performance, and embedded development. I enjoy turning complex logic into efficient, reliable solutions.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gokul-S-2509&label=Profile views&color=0e75b6&style=flat" alt="Gokul-S-2509" /> </p>
+![Visitor Count](https://komarev.com/ghpvc/?username=Gokul-S-2509&color=blue&style=flat)
 
 - 🔭 I'm currently working on **C++ performance benchmarks and system-level utility tools.**
 
