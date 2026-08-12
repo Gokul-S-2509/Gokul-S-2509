@@ -26,6 +26,6 @@ Engineering undergrad focused on low-level systems, software performance, and em
 
 ### 📊 GitHub Activity & Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gokul-S-2509&show_icons=true&theme=tokyonight" alt="Gokul's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokul-S-2509&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gokul-S-2509&show_icons=true&theme=tokyonight" alt="Gokul's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gokul-S-2509&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
